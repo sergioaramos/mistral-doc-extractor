@@ -1,0 +1,5 @@
+mistralai == 1.5.2
+fastapi
+uvicorn
+python-multipart
+pydantic-settings
